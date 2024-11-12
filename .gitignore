@@ -1,3 +1,7 @@
 __MACOSX/
 dataset
 UFC-5
+mv_commands
+.keras
+models
+*.zip
