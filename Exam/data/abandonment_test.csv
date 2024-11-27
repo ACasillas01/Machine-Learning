@@ -1,0 +1,8 @@
+id_cliente,puntuacion_crediticia,Localidad,Genero,Edad,permanencia,saldo,num_de_productos,tiene_tarjeta_credito,es_cliente_activo,salario_estimado,abandono
+15701164,506,Guadalajara,Femenino,34,4,90307.62,1,1,1,159235.29,0
+15738751,493,Guadalajara,Femenino,46,4,0,2,1,0,1907.66,0
+15805254,652,CDMX,Femenino,75,10,0,2,1,1,114675.75,0
+15762418,750,CDMX,Masculino,22,3,121681.82,1,1,0,128643.35,1
+15625759,729,Guadalajara,Masculino,30,9,0,2,1,0,151869.35,0
+15622897,646,Guadalajara,Femenino,46,4,0,3,1,0,93251.42,1
+15767954,635,Monterrey,Femenino,28,3,81623.67,2,1,1,156791.36,0

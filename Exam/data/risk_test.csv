@@ -1,0 +1,4 @@
+edad,ingreso_anual,propiedad_vivienda,antiguedad_empleo,intencion_credito,grado_credito,monto_credito,tasa_interes,estado_credito,procentaje_de_ingreso,incumplimiento_historico,historial_crediticio
+42,82000,hipoteca,13,mejora_hogar,E,26800,,0,0.33,Y,15
+39,82000,hipoteca,7,mejora_hogar,E,8000,19.42,0,0.1,Y,17
+41,82000,hipoteca,18,mejora_hogar,A,12000,7.51,0,0.15,N,17
